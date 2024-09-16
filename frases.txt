@@ -1,1 +1,7 @@
 Este é um arquivo de texto para usar na aula de Git.
+
+Esta é uma modificação no arquivo
+
+Modifiquei novamente o arquivo
+
+Mais uma modificação de arquivo
