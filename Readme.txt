@@ -1,6 +1,6 @@
 
 # Aula de Git e GitHub
-Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de Código com Git e GitHub.
+Repositório para armazenar resumos e links sobre Git e GitHub do curso Versionamento de Código com Git e GitHub.
 
 ## Documentação
 - [Documentação Git](https://git-scm.com/doc)
