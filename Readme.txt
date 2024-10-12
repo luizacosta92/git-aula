@@ -12,3 +12,7 @@ git init
 
 ### Repositório no GitHub
 [Disponível aqui](https://github.com/luizacosta92/git-aula.git)
+
+```
+git commit
+```
