@@ -7,12 +7,12 @@ Repositório para armazenar resumos e links sobre Git e GitHub do curso Versiona
 - [Documentação GitHub](https://docs.github.com/)
 
 ```
-git init
+git init: inicia um git
 ```
 
 ### Repositório no GitHub
 [Disponível aqui](https://github.com/luizacosta92/git-aula.git)
 
 ```
-git commit
+git commit: envia um commit
 ```
