@@ -16,7 +16,7 @@ git init: inicia um git
 ```
 git commit: envia um commit
 ```
-
+git pull
 ```
 git status: apresenta o status do git
 ```
