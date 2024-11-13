@@ -24,3 +24,4 @@ git status: apresenta o status do git
 git add: adiciona um arquivo ao git
 dá para fazer por arquivo (com o nome + extensão do arquivo) ou todos arquivos fazendo git add -A
 ```
+git fetch
